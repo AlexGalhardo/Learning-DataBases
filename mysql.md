@@ -193,7 +193,10 @@
 <li class="has-line-data" data-line-start="20" data-line-end="21">mysqldump -u [usuario] –p --all-databases &gt; [arquivo.sql]</li>
 </ul>
 
+
+
 ## MySQL CLI
+
 Commands
 -----------
 
