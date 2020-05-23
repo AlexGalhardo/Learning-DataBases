@@ -2,7 +2,20 @@
 - [Learning MySQL](#)
 - [Learning PostgreSQL](#)
 - [Learning Redis](#)
+   - https://dubbelboer.com/phpRedisAdmin/?overview
 - [Learning MongoDB](#)
+
+## Tools
+   - DB GUI Softwares
+      - https://www.adminer.org/
+      - https://www.sequelpro.com/
+      - https://robomongo.org/
+      - https://sqlectron.github.io/
+      - https://eggerapps.at/postico/
+   - CLI
+      - https://linuxjourney.com/
+   - Dumps/Backups
+      - https://freek.dev/389-a-package-to-dump-your-database
 
 ## SQL Resume
 
