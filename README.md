@@ -1,10 +1,3 @@
-# Sumary
-- [Learning MySQL](#)
-- [Learning PostgreSQL](#)
-- [Learning Redis](#)
-   - https://dubbelboer.com/phpRedisAdmin/?overview
-- [Learning MongoDB](#)
-
 ## Tools
    - DB GUI Softwares
       - https://www.adminer.org/
@@ -17,7 +10,6 @@
    - Dumps/Backups
       - https://freek.dev/389-a-package-to-dump-your-database
 
-## SQL Resume
 
 ### SQL Languages
 
